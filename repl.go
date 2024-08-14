@@ -14,7 +14,7 @@ func startRepl() {
 		reader.Scan()
 
 		words := cleanInput(reader.Text())
-		if len(words) == 0 {
+		if len(words) == 0 { //go to new prompt
 			continue
 		}
 
