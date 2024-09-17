@@ -16,7 +16,7 @@ This project is a command-line REPL (Read-Eval-Print Loop) Pokedex built in Go. 
 - **net/http**: Go's standard library for making HTTP requests.
 - **encoding/json**: For parsing and working with JSON data in Go.
 
-## How to Run
+## Installation
 
 1. Clone the repository.
 2. Make sure you have Go installed with ```go version```
