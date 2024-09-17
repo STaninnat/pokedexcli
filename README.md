@@ -21,4 +21,4 @@ This project is a command-line REPL (Read-Eval-Print Loop) Pokedex built in Go. 
 1. Clone the repository.
 2. Make sure you have Go installed with ```go version```
 3. Run the REPL using the following command: ```./pokedexcli```
- - Type the ```help``` command. They will prints a help message describing how to use the REPL.
+    - Type the ```help``` command. They will prints a help message describing how to use the REPL.
